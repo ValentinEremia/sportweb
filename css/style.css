@@ -95,11 +95,13 @@ p{
 .intro-video{
     display: block;
     max-height: 50vh;
-    margin: 40px auto;
-    max-width: 100%;
+     margin: 40px auto;
+    max-width: 70vw;
     border-radius: 8px;
-    margin-bottom: 40px;
-}
+    
+} 
+
+
 .gallery{
     display: flex;
     justify-content: space-around;
@@ -179,6 +181,7 @@ p{
 }
 .show{
     display: block !important;
+    
 }
 
 @media (max-width: 768px){
@@ -192,7 +195,7 @@ p{
 
     main{
         margin: 0px;
-       padding: 10px 15px 30px 15px;
+       padding: 10px 18px 45px 18px;
     }
 
     aside{
@@ -209,6 +212,7 @@ p{
 
     #menu-btn{
         display: block;
+       
     }
 
 }
